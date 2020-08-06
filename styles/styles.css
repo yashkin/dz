@@ -27,6 +27,7 @@ ul {
   .old-school {
     display: inline-block;
     margin-left: 20px;
+    margin-bottom: 20px;
     font-family: Open Sans;
     font-style: normal;
     font-weight: 600;
@@ -128,8 +129,6 @@ ul {
 
     display: flex;
     flex-direction: row-reverse;
-    align-items: center;
-    justify-content: space-between;
   }
 
   .features {
